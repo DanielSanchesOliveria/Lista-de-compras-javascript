@@ -1,14 +1,6 @@
 # 🛒 Lista de Compras
 
-Projeto desenvolvido como prática após a conclusão do curso de JavaScript do Curso em Vídeo (Gustavo Guanabara).
-
 O objetivo do projeto foi aplicar conceitos fundamentais de JavaScript manipulando o DOM, trabalhando com arrays e utilizando o LocalStorage para persistência de dados.
-
----
-
-## 📷 Demonstração
-
-> Em breve...
 
 ---
 
