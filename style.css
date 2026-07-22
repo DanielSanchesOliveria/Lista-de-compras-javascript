@@ -91,3 +91,18 @@ input:focus {
 .delete-button:hover {
   background: #dc2626;
 }
+
+.edit_button {
+  background: #facc15;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  padding: 8px 14px;
+  cursor: pointer;
+  width: auto;
+  transition: background 0.2s;
+}
+
+.edit_button:hover {
+  background: #eab308;
+}
