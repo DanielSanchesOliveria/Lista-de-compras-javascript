@@ -76,7 +76,6 @@ O principal desafio foi implementar uma lista de compras capaz de armazenar info
 
 ## 📈 Próximas melhorias
 
-<<<<<<< HEAD
 - [x] Remover itens da lista
 - [x] Editar itens
 - [ ] Marcar itens como comprados
