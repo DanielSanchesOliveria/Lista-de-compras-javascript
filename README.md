@@ -76,7 +76,6 @@ O principal desafio foi implementar uma lista de compras capaz de armazenar info
 
 ## 📈 Próximas melhorias
 
-- [ ] Remover itens da lista
 - [ ] Editar itens
 - [ ] Marcar itens como comprados
 - [ ] Limpar toda a lista
@@ -90,10 +89,6 @@ O principal desafio foi implementar uma lista de compras capaz de armazenar info
 Daniel Oliveira
 
 Estudante de Análise e Desenvolvimento de Sistemas, em constante evolução na área de desenvolvimento de software e construção de projetos práticos utilizando HTML, CSS e JavaScript.
-
-LinkedIn: *(adicione seu link)*
-
-GitHub: *(adicione seu perfil)*
 
 ---
 ⭐ Se este projeto foi útil ou interessante para você, deixe uma estrela no repositório.
