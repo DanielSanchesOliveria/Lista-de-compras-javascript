@@ -76,8 +76,12 @@ O principal desafio foi implementar uma lista de compras capaz de armazenar info
 
 ## 📈 Próximas melhorias
 
+<<<<<<< HEAD
 - [x] Remover itens da lista
 - [x] Editar itens
+=======
+- [ ] Editar itens
+>>>>>>> ad2cdea26ca8515a809b57ad831b93115266de7a
 - [ ] Marcar itens como comprados
 - [ ] Limpar toda a lista
 - [ ] Permitir adicionar itens pressionando Enter
