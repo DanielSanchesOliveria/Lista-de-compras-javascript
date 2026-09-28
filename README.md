@@ -74,16 +74,6 @@ O principal desafio foi implementar uma lista de compras capaz de armazenar info
 
 ---
 
-## 📈 Próximas melhorias
-
-- [x] Remover itens da lista
-- [x] Editar itens
-- [ ] Marcar itens como comprados
-- [ ] Limpar toda a lista
-- [ ] Permitir adicionar itens pressionando Enter
-- [ ] Melhorar a interface para dispositivos móveis
-
----
 
 ## 👨‍💻 Autor
 
